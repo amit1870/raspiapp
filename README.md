@@ -1,2 +1,2 @@
 # raspiapp
-An raspberry app
+A raspberry app
